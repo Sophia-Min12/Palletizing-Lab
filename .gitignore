@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+scratch/
+build/
+dist/
+
+# private application materials (resume, portfolio draft, interview prep)
+application_kit/
